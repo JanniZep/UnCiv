@@ -18,6 +18,7 @@
 		Italian:"marittima civile" //Unità marittima civile
 		Simplified_Chinese:"海上平民单位"
 		French:"Civil embarqué"
+		German:"Zivile Marineeinheit"
 	}
 
 	"Melee":{
@@ -36,6 +37,8 @@
 		Italian:"marittima da mischia" //Unità marittima da mischia
 		Simplified_Chinese:"海军近战单位"
 		French:"Navire de combat rapproché"
+		German:"Marine-Nahkampfeinheit"
+		
 	}
 
 	"Ranged":{
@@ -54,12 +57,14 @@
 		Italian:"marittima a distanza" //Unità marittima a distanza
 		Simplified_Chinese:"海军远程单位"
 		French:"Navire de combat à distance"
+		German:"Marine-Fernkampfeinheit"
 	}
 
 	"WaterSubmarine":{ //In the file "Uints.json", every unit have the "unitType".This unitType includes submarine and nuclear submarine.
 		Italian:"sottomarina" //Unità sottomarina
 		Simplified_Chinese:"海军潜艇单位"
 		French:"Navires sous-marins"
+		German:"Unterwassereinheit"
 	}
 
 	"Siege":{
@@ -67,7 +72,7 @@
 		Russian:"Осадный"
 		French:"Siège" //Unité de siège
 		Romanian:"Dispozitiv de asediu"
-		German:"Belagerungsmaschiene"
+		German:"Belagerungsmaschine"
 		Dutch:"Belegering"
 		Spanish:"Asedio"
 		Simplified_Chinese:"攻城单位"
@@ -237,7 +242,7 @@
 		Romanian:"Nu poate accesa celule ocean înainte de descoperirea Astronomiei"
 		Simplified_Chinese:"不能进入海洋直到掌握天文学"
 		Portuguese:"Não pode entrar o terreno 'oceano' até a pesquisa Astronomia" // if you want you can take away the 'a pesquisa'
-		German:"Ozeanfelder können nicht befahren werden bis Astronomie erforscht ist"
+		German:"Ozeanfelder können nicht befahren werden, bis Astronomie erforscht ist"
 		Russian:"Не может войти в океанские плитки до Астрономии"
 	}
 
@@ -332,6 +337,7 @@
 	"Bonus vs Mounted 50%":{
 		Italian:"+50% Bonus contro unità a cavallo"
 		Simplified_Chinese:"对战骑乘单位时+50%战斗力"
+		German:"+50% Bonus gegen berittene Einheiten"
 	}
 
 	"Hoplite":{ // Greek unique
@@ -368,6 +374,7 @@
 	"Bonus vs City 200%":{
 		Italian:"+200% Bonus contro Città"
 		Simplified_Chinese:"攻击城市时+200%战斗力"
+		German:"200% Bonus gegen Städte
 	}
 
 	"Must set up to ranged attack":{
@@ -375,7 +382,7 @@
 		Russian:"Необходимо подготовится к дальнобойной атаке"
 		French:"Doit être installé pour attaquer à distance"
 		Romanian:"Trebuie să fie montat pentru a putea ataca"
-		German:"Muss aufgestellt werden um Fernattacken auszuführen"
+		German:"Muss aufgestellt werden, um Fernattacken auszuführen"
 		Dutch:"Moet opstellen voordat er een aanval op afstand kan worden gemaakt"
 		Spanish:"Debe montarse para atacar a distancia"
 		Simplified_Chinese:"必须架设才能远程攻击"
@@ -416,12 +423,14 @@
 		Italian:"Può costruire Strade"
         	Simplified_Chinese:"可以建造道路"
 		French:"Peut construire des routes"
+		German:"Kann Straßen bauen"
 	}
 
 	"Construct road":{ // for unit action button
 		Italian:"Costruisci Strada"
         	Simplified_Chinese:"建造道路"
 		French:"Construire une route"
+		German:"Straße errichten"
 	} 
 	
 	"Horseman":{	
@@ -450,6 +459,8 @@
 	"Penalty vs City 33%":{
 		Italian:"+33% Malus contro Città"
 		Simplified_Chinese:"攻击城市时-33%战斗力"
+		German:"-33% beim Angriff auf Städte"
+		
 	}
 
 	"Companion Cavalry":{	
@@ -465,6 +476,7 @@
 
 	"War Elephant":{//Indian unique unit	
 		Italian:"Elefante da guerra"
+		German:"Kriegselefant"
 	}
 	
 ////// Medieval units
@@ -511,7 +523,7 @@
 
 	"Logistics":{
 		Italian:"Logistica"
-		German:"Logistick"
+		German:"Logistik"
 		French:"Logistique"
 		Russian:"Логистика"
 		Simplified_Chinese:"后勤补给"
@@ -522,6 +534,7 @@
 		French:"1 attaque supplémentaire par tour"
 		Russian:"Дополнительная атака за ход"
 		Simplified_Chinese:"每回合有一次额外的攻击机会"
+		German:"1 zusätzlicher Angriff pro Runde"
 	}
 
 	"Trebuchet":{	
@@ -594,12 +607,14 @@
 		Italian:"Samurai" //Same as in Italian
 		Simplified_Chinese:"日本武士"
 		French:"Samuraï"
+		//Same in German
 	}
 
 	"Combat very likely to create Great Generals":{
 		Italian:"Può generare un Grande Generale combattendo"
 		Simplified_Chinese:"战斗能更快地产生出大军事家"
 		French:"A de grande chance de faire apparaitre un général illustre suite à un combat"
+		German:"Hohe Chance, im Kampf einen Großen General zu erzeugen"
 	}
 	
 ////// Renaissance units
@@ -645,7 +660,7 @@
 		Simplified_Chinese:"火铳手"
 		Portuguese:"Soldado com mosquete"
 		Russian:"Стрельцы"
-		German:"Musketschütze"
+		German:"Musketenschütze"
 	}
 
 	"Musketeer":{ //french unique
@@ -677,7 +692,7 @@
 		Simplified_Chinese:"护卫舰"
 		Portuguese:"Fragata"
 		Russian:"Фригат"
-		German:"Frigatte"
+		German:"Fregatte"
 	}
 
 	"Ship of the Line":{ // English unique
@@ -698,7 +713,7 @@
 		Spanish:"Jinete lancero"
 		Simplified_Chinese:"枪骑兵"
 		Portuguese:"Lanceiro montado"
-		German:"Lanzer"
+		German:"Lanzenkrieger"
 	}
 	
 	"Bonus vs Mounted 33%":{
@@ -746,7 +761,7 @@
 		Spanish:"Cosaco"
 		Simplified_Chinese:"哥萨克骑兵"
 		Russian:"Казаки"
-		German:"Kosak"
+		German:"Kosake"
 		French:"Cosaque"
 	}
 	
@@ -755,6 +770,7 @@
 		French:"+33% force contre les unités montées"
 		Russian:"Бонус против раненых 33%"
 		Simplified_Chinese:"对战受伤单位时+33%战斗力"
+		German:"33% Bonus gegen verletzte Einheiten"
 	}
 
 	"Artillery":{	
