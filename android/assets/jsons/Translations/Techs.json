@@ -18,7 +18,7 @@
 		Russian:"Гончарное дело"
 		French:"Poterie"
 		Romanian:"Ceramică"
-		German:"Töpferkunst"
+		German:"Töpferei"
 		Dutch:"Aardwerk"
 		Spanish:"Cerámica"
 		Simplified_Chinese:"制陶"
@@ -138,7 +138,7 @@
 		Russian:"Обработка бронзы"
 		French:"Travail du bronze"
 		Romanian:"Prelucrarea bronzului"
-		German:"Bronze Bearbeitung"
+		German:"Bronzeverarbeitung"
 		Dutch:"Brons Bewerking"
 		Spanish:"Trabajo del bronce"
 		Simplified_Chinese:"青铜器"
@@ -236,7 +236,7 @@
 		Russian:"Обработка железа"
 		French:"Travail du fer"
 		Romanian:"Prelucrarea fierului"
-		German:"Eisen Bearbeitung"
+		German:"Eisenverarbeitung"
 		Dutch:"Ijzer Bewerking"
 		Spanish:"Trabajo del hierro"
 		Simplified_Chinese:"铁器"
@@ -273,6 +273,7 @@
 		Italian:"Consente accordi su Diritti di Passaggio"
 		Simplified_Chinese:"允许签订开放边境协定"
 		French:"Permet l'accord des frontières ouvertes"
+		Deutsch:"Schaltet das Offene Grenzen-Abkommen frei"
 	}
 	
 	"Guilds":{
@@ -364,7 +365,7 @@
 		Russian:"Машиностроение"
 		French:"Mécanique"
 		Romanian:"Instalații mecanice"
-		German:"Maschienenbau"
+		German:"Maschinenbau"
 		Dutch:"Machinebouw"
 		Spanish:"Mecánica"
 		Simplified_Chinese:"机械"
@@ -450,7 +451,7 @@
 		Russian:"Архитектура"
 		French:"Architecture"
 		Romanian:"Arhitectură"
-		German:"Die Architektur"
+		German:"Architektur"
 		Dutch:"Architectuur"
 		Spanish:"Arquitectura"
 		Simplified_Chinese:"建筑设计学"
@@ -485,7 +486,7 @@
 		Italian:"Metallurgia"
 		Russian:"Металлургия"
 		French:"Métallurgie"
-		Romanian:"Metalurgie"
+		Romanian:"Metallurgie"
 		Dutch:"Metaalkunde"
 		Spanish:"Metalurgia"
 		Simplified_Chinese:"冶金学"
@@ -512,7 +513,7 @@
 		Russian:"Научная теория"
 		French:"Théorie scientifique"
 		Romanian:"Teorie științifică"
-		German:"Wissenschaftliche Theorie"
+		German:"Wissenschaftstheorie"
 		Dutch:"Wetenschappelijke Theorie"
 		Spanish:"Teoría científica"
 		Simplified_Chinese:"科学理论"
@@ -539,7 +540,7 @@
 		Dutch:"Gedraaide loop"
 		Spanish:"Estriado"
 		Simplified_Chinese:"膛线"
-		German:"Gewehrkugeldrall"
+		German:"Drall"
 		// Portuguese translation not sure
 	}
 
@@ -552,7 +553,7 @@
 		Spanish:"Ciencia militar"
 		Simplified_Chinese:"军事科学"
 		Portuguese:"Ciência militar"
-		German:"Militärwissenschaft"
+		German:"Militärwissenschaften"
 	}
 
 	"Fertilizer":{
@@ -635,7 +636,7 @@
 		Spanish:"Produccion En Serie"
 		Simplified_Chinese:"可更换部件"
 		Portuguese:"Partes substituiveís"
-		German:"Ersetzbare Teile"
+		German:"Ersatzteile"
 		French:"Pièces de rechange"
 		Russian:"Сменные части"
 	}
@@ -716,7 +717,7 @@
 		Russian:"Авиация"
 		French:"Aviation"
 		Romanian:"Aviație"
-		German:"Flug"
+		German:"Luftfahrt"
 		Dutch:"Vlucht"
 		Spanish:"Vuelo"
 		Simplified_Chinese:"航空"
@@ -765,7 +766,7 @@
 		Italian:"Armi combinate"
 		Russian:"Комбинированные руки"
 		French:"Armes combinés"
-		German:"Verbundene Waffen"
+		German:"Verbundwaffen"
 		Spanish:"Fuerzas combinadas"
 		Simplified_Chinese:"协同作战"
 	}
@@ -824,6 +825,7 @@
 	"Lasers":{
 		Italian:"Laser"
 		French:"Lasers"
+		Deutsch:"Laser"
 	}
 	*/
 
@@ -892,6 +894,7 @@
 		Italian:"Questa tecnologia si può sempre ricercare; il tuo punteggio aumenterà ogni volta che viene scoperta."
 		French:"Une technologie qui augmente le score et qui peut être fait indéfiniment."
 		Simplified_Chinese:"一项可以重复研究的科技，每次研究完成时都会增加你的积分"
+		Deutsch:"Jede wiederholte Erforschung von Technologien erhöht die Punktzahl."
 	}
 	*/
 	
@@ -1035,7 +1038,7 @@
 		Spanish:"Era industrial"
 		Simplified_Chinese:"工业时代"
 		Portuguese:"Era industrial"
-		German:"Industrielle Revolution"
+		German:"Industriezeitalter"
 	}
 
 	"Modern era":{
